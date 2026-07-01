@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bussola//IT
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:test-bussola@calendario-scuola
+DTSTART;VALUE=DATE:20260701
+SUMMARY:Bussola collegata - in attesa dei tuoi impegni
+END:VEVENT
+END:VCALENDAR
